@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jam0ng&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jam0ng&layout=compact)
 <!--
 **jam0ng/jam0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
